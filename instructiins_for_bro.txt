@@ -1,0 +1,7 @@
+Bro :
+either   try the   toxix1.py as  it   is because  is blocking my pc
+     there are  2 issues  with    it   I did  not did  that  clip   from your file    because I dont  understand    why  this  first ,  and second is   my tfidf  is  done    first on train  then on test ,  in your file   is  done  on   row binded   train  and test 
+ * try  first  mine to see     what is happening  
+ * if  not  brining   good  score   use  un your script   with copy and  paste  the      kinetic  and other  features  I did 
+
+TNks  bro 
